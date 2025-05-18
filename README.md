@@ -1,6 +1,6 @@
 # bekir_aydogan_244602019
 
-A new Flutter project.
+İzmirim Kart Uygulaması ve apk dosyasını da yolladım 
 
 ## Getting Started
 
